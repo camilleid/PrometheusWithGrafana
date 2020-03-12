@@ -1,11 +1,11 @@
 [prometheus]
-18.219.214.78
+$IP1
 
 [node_exporter]
-18.222.105.189
+$IP2
 
 [alertmanager]
-18.219.214.78
+$IP1
 
 [grafana]
-18.223.203.246
+$IP3
